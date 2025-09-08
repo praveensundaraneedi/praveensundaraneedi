@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jaisuryasundaraneedi@gmail.com,https://www.linkedin.com/in/praveen-sundaraneedi-58784427a
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 praveensundaraneedi/praveensundaraneedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
